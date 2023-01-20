@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey, I'm John! (he/him) 👋
 
-<!--
-**johnglass2003/johnglass2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer born in Miami 🔥, raised in Broward 🌞, who's currently studying at the University of Florida 🐊 <br>
 
-Here are some ideas to get you started:
+I'm persuing a undergraduate CS degree and passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎹 Music
+- 🎨 Art
+- 🏋️ Working Out
+- 🎮 Gaming
+
+I’m currently working on 🔭 ...
+- 🍎 Fitness Helper IOS app
+- 🔊 Spacial Audio Localization Programming Research
+- 👥 Meet Up and Event Planning Web App
+- ✏️ Doodling Web App
+- 🏆 Bracket Web App
+
+### <b> ***Open to any opportunities and I love working with others! 😎*** </b>
+Hit me up to chat I'm super cool I promise <br> 
+Check out my projects :D !
+
