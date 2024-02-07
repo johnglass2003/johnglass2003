@@ -2,7 +2,7 @@
 
 I'm a Software Developer born in Miami 🔥, raised in Broward 🌞, who's currently studying at the University of Florida 🐊 <br>
 
-I'm persuing a undergraduate CS degree and passionate about:
+I'm pursuing a undergraduate CS degree and passionate about:
 
 - 🎹 Music
 - 🎨 Art
